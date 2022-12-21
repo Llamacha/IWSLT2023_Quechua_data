@@ -1,1 +1,1 @@
-# -IWSLT2023_Quechua_data
+# IWSLT2023 - Low-resource Speech Translation Track: Quechua-Spanish Parallel Corpus
