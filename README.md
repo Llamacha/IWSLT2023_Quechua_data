@@ -4,7 +4,7 @@ Repository for sharing the data in the Quechua language, one of the languages fo
 
 ## Parallel data
 
-This corpus is a small fraction of the Siminchik corpus [(Cardenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/book_of_proceedings.pdf#page=28) translated into Spanish. It comprises 1 hour, 40 minutes of clean speech in Quechua, translated into Spanish (quy_esp_clean). This version contains a validation and test data set.
+This corpus is a small fraction of the Siminchik corpus [(Cardenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/book_of_proceedings.pdf#page=28) translated into Spanish. It comprises 1 hour, 40 minutes of clean speech in Quechua, translated into Spanish (que_spa_clean). This version contains a validation and test data set.
 
 ## Additional Audio data
 
