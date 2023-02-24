@@ -32,6 +32,31 @@ Due to their size, this data is made available through this website.
 }
 ```
 
+
+## Additional Parallel Text data
+
+As part of the constrained task, we allow parallel text from previous work.
+Participants are also not required to use this data.
+
+The data is found in this repository and called: "additional_mt_text".
+They are extracted from the JW300 and Hinantin websites and used in the cited work below.
+
+
+## Citation 
+
+```
+@article{ortega2020neural,
+  title={Neural machine translation with a polysynthetic low resource language},
+  author={Ortega, John E and Castro Mamani, Richard and Cho, Kyunghyun},
+  journal={Machine Translation},
+  volume={34},
+  number={4},
+  pages={325--346},
+  year={2020},
+  publisher={Springer}
+}
+```
+
 ## License
 All audio recordings are property of Siminchikkunarayku and [Llamacha](https://llamacha.pe).
 
