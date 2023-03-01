@@ -1,573 +1,573 @@
-- {duration:1.9941875, offset: 0.0, speaker_id: MANUEL, wav:quechua000000.wav}
-- {duration:1.567125, offset: 0.0, speaker_id: MANUEL, wav:quechua000001.wav}
-- {duration:4.042, offset: 0.0, speaker_id: MANUEL, wav:quechua000002.wav}
-- {duration:3.861125, offset: 0.0, speaker_id: MANUEL, wav:quechua000003.wav}
-- {duration:7.7221875, offset: 0.0, speaker_id: MANUEL, wav:quechua000004.wav}
-- {duration:3.3739375, offset: 0.0, speaker_id: MANUEL, wav:quechua000005.wav}
-- {duration:8.7151875, offset: 0.0, speaker_id: MANUEL, wav:quechua000006.wav}
-- {duration:5.26325, offset: 0.0, speaker_id: MANUEL, wav:quechua000007.wav}
-- {duration:7.035375, offset: 0.0, speaker_id: MANUEL, wav:quechua000008.wav}
-- {duration:11.174875, offset: 0.0, speaker_id: MANUEL, wav:quechua000009.wav}
-- {duration:2.7486875, offset: 0.0, speaker_id: MANUEL, wav:quechua000010.wav}
-- {duration:3.4339375, offset: 0.0, speaker_id: MANUEL, wav:quechua000011.wav}
-- {duration:6.058625, offset: 0.0, speaker_id: MANUEL, wav:quechua000012.wav}
-- {duration:3.98675, offset: 0.0, speaker_id: MANUEL, wav:quechua000013.wav}
-- {duration:3.8095625, offset: 0.0, speaker_id: MANUEL, wav:quechua000014.wav}
-- {duration:5.52525, offset: 0.0, speaker_id: MANUEL, wav:quechua000015.wav}
-- {duration:3.050125, offset: 0.0, speaker_id: MANUEL, wav:quechua000016.wav}
-- {duration:10.9741875, offset: 0.0, speaker_id: MANUEL, wav:quechua000017.wav}
-- {duration:6.1934375, offset: 0.0, speaker_id: MANUEL, wav:quechua000018.wav}
-- {duration:11.728, offset: 0.0, speaker_id: MANUEL, wav:quechua000019.wav}
-- {duration:5.4950625, offset: 0.0, speaker_id: MANUEL, wav:quechua000020.wav}
-- {duration:4.346, offset: 0.0, speaker_id: MANUEL, wav:quechua000021.wav}
-- {duration:3.957375, offset: 0.0, speaker_id: MANUEL, wav:quechua000022.wav}
-- {duration:8.02375, offset: 0.0, speaker_id: MANUEL, wav:quechua000023.wav}
-- {duration:6.32875, offset: 0.0, speaker_id: MANUEL, wav:quechua000024.wav}
-- {duration:17.531125, offset: 0.0, speaker_id: MANUEL, wav:quechua000025.wav}
-- {duration:8.2686875, offset: 0.0, speaker_id: MANUEL, wav:quechua000026.wav}
-- {duration:6.44025, offset: 0.0, speaker_id: MANUEL, wav:quechua000027.wav}
-- {duration:3.87075, offset: 0.0, speaker_id: MANUEL, wav:quechua000028.wav}
-- {duration:4.5755625, offset: 0.0, speaker_id: MANUEL, wav:quechua000029.wav}
-- {duration:9.425375, offset: 0.0, speaker_id: MANUEL, wav:quechua000030.wav}
-- {duration:9.5159375, offset: 0.0, speaker_id: MANUEL, wav:quechua000031.wav}
-- {duration:3.7355, offset: 0.0, speaker_id: MANUEL, wav:quechua000032.wav}
-- {duration:3.0718125, offset: 0.0, speaker_id: MANUEL, wav:quechua000033.wav}
-- {duration:4.4876875, offset: 0.0, speaker_id: MANUEL, wav:quechua000034.wav}
-- {duration:13.0426875, offset: 0.0, speaker_id: MANUEL, wav:quechua000035.wav}
-- {duration:7.586125, offset: 0.0, speaker_id: MANUEL, wav:quechua000036.wav}
-- {duration:7.7456875, offset: 0.0, speaker_id: MANUEL, wav:quechua000037.wav}
-- {duration:8.320625, offset: 0.0, speaker_id: MANUEL, wav:quechua000038.wav}
-- {duration:2.741625, offset: 0.0, speaker_id: MANUEL, wav:quechua000039.wav}
-- {duration:3.65875, offset: 0.0, speaker_id: MANUEL, wav:quechua000040.wav}
-- {duration:3.2336875, offset: 0.0, speaker_id: MANUEL, wav:quechua000041.wav}
-- {duration:5.6003125, offset: 0.0, speaker_id: MANUEL, wav:quechua000042.wav}
-- {duration:7.807875, offset: 0.0, speaker_id: MANUEL, wav:quechua000043.wav}
-- {duration:4.553, offset: 0.0, speaker_id: MANUEL, wav:quechua000044.wav}
-- {duration:6.8145, offset: 0.0, speaker_id: MANUEL, wav:quechua000045.wav}
-- {duration:8.697875, offset: 0.0, speaker_id: MANUEL, wav:quechua000046.wav}
-- {duration:8.25625, offset: 0.0, speaker_id: MANUEL, wav:quechua000047.wav}
-- {duration:12.117, offset: 0.0, speaker_id: MANUEL, wav:quechua000048.wav}
-- {duration:3.24275, offset: 0.0, speaker_id: MANUEL, wav:quechua000049.wav}
-- {duration:3.94225, offset: 0.0, speaker_id: MANUEL, wav:quechua000050.wav}
-- {duration:3.9295, offset: 0.0, speaker_id: MANUEL, wav:quechua000051.wav}
-- {duration:3.795375, offset: 0.0, speaker_id: MANUEL, wav:quechua000052.wav}
-- {duration:4.137625, offset: 0.0, speaker_id: MANUEL, wav:quechua000053.wav}
-- {duration:12.2613125, offset: 0.0, speaker_id: MANUEL, wav:quechua000054.wav}
-- {duration:8.7435625, offset: 0.0, speaker_id: MANUEL, wav:quechua000055.wav}
-- {duration:6.0516875, offset: 0.0, speaker_id: MANUEL, wav:quechua000056.wav}
-- {duration:12.7496875, offset: 0.0, speaker_id: MANUEL, wav:quechua000057.wav}
-- {duration:8.499875, offset: 0.0, speaker_id: MANUEL, wav:quechua000058.wav}
-- {duration:6.8301875, offset: 0.0, speaker_id: MANUEL, wav:quechua000059.wav}
-- {duration:10.28025, offset: 0.0, speaker_id: MANUEL, wav:quechua000060.wav}
-- {duration:2.82075, offset: 0.0, speaker_id: MANUEL, wav:quechua000061.wav}
-- {duration:2.854875, offset: 0.0, speaker_id: MANUEL, wav:quechua000062.wav}
-- {duration:3.7401875, offset: 0.0, speaker_id: MANUEL, wav:quechua000063.wav}
-- {duration:4.2055625, offset: 0.0, speaker_id: MANUEL, wav:quechua000064.wav}
-- {duration:6.02075, offset: 0.0, speaker_id: MANUEL, wav:quechua000065.wav}
-- {duration:23.6465, offset: 0.0, speaker_id: MANUEL, wav:quechua000066.wav}
-- {duration:6.16075, offset: 0.0, speaker_id: MANUEL, wav:quechua000067.wav}
-- {duration:3.6003125, offset: 0.0, speaker_id: MANUEL, wav:quechua000068.wav}
-- {duration:10.75375, offset: 0.0, speaker_id: MANUEL, wav:quechua000069.wav}
-- {duration:6.1186875, offset: 0.0, speaker_id: MANUEL, wav:quechua000070.wav}
-- {duration:6.9909375, offset: 0.0, speaker_id: MANUEL, wav:quechua000071.wav}
-- {duration:4.66775, offset: 0.0, speaker_id: MANUEL, wav:quechua000072.wav}
-- {duration:7.033625, offset: 0.0, speaker_id: MANUEL, wav:quechua000073.wav}
-- {duration:10.4805, offset: 0.0, speaker_id: MANUEL, wav:quechua000074.wav}
-- {duration:5.3948125, offset: 0.0, speaker_id: MANUEL, wav:quechua000075.wav}
-- {duration:4.677625, offset: 0.0, speaker_id: MANUEL, wav:quechua000076.wav}
-- {duration:4.9228125, offset: 0.0, speaker_id: MANUEL, wav:quechua000077.wav}
-- {duration:5.387, offset: 0.0, speaker_id: MANUEL, wav:quechua000078.wav}
-- {duration:13.8274375, offset: 0.0, speaker_id: MANUEL, wav:quechua000079.wav}
-- {duration:4.2075625, offset: 0.0, speaker_id: MANUEL, wav:quechua000080.wav}
-- {duration:3.435375, offset: 0.0, speaker_id: MANUEL, wav:quechua000081.wav}
-- {duration:7.78375, offset: 0.0, speaker_id: MANUEL, wav:quechua000082.wav}
-- {duration:9.0929375, offset: 0.0, speaker_id: MANUEL, wav:quechua000083.wav}
-- {duration:9.1569375, offset: 0.0, speaker_id: MANUEL, wav:quechua000084.wav}
-- {duration:19.067875, offset: 0.0, speaker_id: MANUEL, wav:quechua000085.wav}
-- {duration:10.1091875, offset: 0.0, speaker_id: MANUEL, wav:quechua000086.wav}
-- {duration:0.59425, offset: 0.0, speaker_id: MANUEL, wav:quechua000087.wav}
-- {duration:8.76075, offset: 0.0, speaker_id: MANUEL, wav:quechua000088.wav}
-- {duration:8.0809375, offset: 0.0, speaker_id: MANUEL, wav:quechua000089.wav}
-- {duration:5.3835625, offset: 0.0, speaker_id: MANUEL, wav:quechua000090.wav}
-- {duration:9.4876875, offset: 0.0, speaker_id: MANUEL, wav:quechua000091.wav}
-- {duration:2.46975, offset: 0.0, speaker_id: MANUEL, wav:quechua000092.wav}
-- {duration:2.892625, offset: 0.0, speaker_id: MANUEL, wav:quechua000093.wav}
-- {duration:12.112, offset: 0.0, speaker_id: MANUEL, wav:quechua000094.wav}
-- {duration:4.9626875, offset: 0.0, speaker_id: MANUEL, wav:quechua000095.wav}
-- {duration:2.000625, offset: 0.0, speaker_id: MANUEL, wav:quechua000096.wav}
-- {duration:4.598875, offset: 0.0, speaker_id: MANUEL, wav:quechua000097.wav}
-- {duration:4.065, offset: 0.0, speaker_id: MANUEL, wav:quechua000098.wav}
-- {duration:6.1950625, offset: 0.0, speaker_id: MANUEL, wav:quechua000099.wav}
-- {duration:9.70075, offset: 0.0, speaker_id: MANUEL, wav:quechua000100.wav}
-- {duration:8.491125, offset: 0.0, speaker_id: MANUEL, wav:quechua000101.wav}
-- {duration:4.2703125, offset: 0.0, speaker_id: MANUEL, wav:quechua000102.wav}
-- {duration:5.0294375, offset: 0.0, speaker_id: MANUEL, wav:quechua000103.wav}
-- {duration:15.12575, offset: 0.0, speaker_id: MANUEL, wav:quechua000104.wav}
-- {duration:10.0894375, offset: 0.0, speaker_id: MANUEL, wav:quechua000105.wav}
-- {duration:3.47425, offset: 0.0, speaker_id: MANUEL, wav:quechua000106.wav}
-- {duration:4.570375, offset: 0.0, speaker_id: MANUEL, wav:quechua000107.wav}
-- {duration:5.9165, offset: 0.0, speaker_id: MANUEL, wav:quechua000108.wav}
-- {duration:14.8509375, offset: 0.0, speaker_id: MANUEL, wav:quechua000109.wav}
-- {duration:4.514, offset: 0.0, speaker_id: MANUEL, wav:quechua000110.wav}
-- {duration:6.8046875, offset: 0.0, speaker_id: MANUEL, wav:quechua000111.wav}
-- {duration:9.664875, offset: 0.0, speaker_id: MANUEL, wav:quechua000112.wav}
-- {duration:12.78025, offset: 0.0, speaker_id: MANUEL, wav:quechua000113.wav}
-- {duration:3.1040625, offset: 0.0, speaker_id: MANUEL, wav:quechua000114.wav}
-- {duration:11.432125, offset: 0.0, speaker_id: MANUEL, wav:quechua000115.wav}
-- {duration:3.4169375, offset: 0.0, speaker_id: MANUEL, wav:quechua000116.wav}
-- {duration:7.0456875, offset: 0.0, speaker_id: MANUEL, wav:quechua000117.wav}
-- {duration:8.7350625, offset: 0.0, speaker_id: MANUEL, wav:quechua000118.wav}
-- {duration:8.4389375, offset: 0.0, speaker_id: MANUEL, wav:quechua000119.wav}
-- {duration:2.319625, offset: 0.0, speaker_id: MANUEL, wav:quechua000120.wav}
-- {duration:3.1795, offset: 0.0, speaker_id: MANUEL, wav:quechua000121.wav}
-- {duration:2.426875, offset: 0.0, speaker_id: MANUEL, wav:quechua000122.wav}
-- {duration:2.8026875, offset: 0.0, speaker_id: MANUEL, wav:quechua000123.wav}
-- {duration:9.703, offset: 0.0, speaker_id: MANUEL, wav:quechua000124.wav}
-- {duration:0.759125, offset: 0.0, speaker_id: MANUEL, wav:quechua000125.wav}
-- {duration:3.3058125, offset: 0.0, speaker_id: MANUEL, wav:quechua000126.wav}
-- {duration:2.2731875, offset: 0.0, speaker_id: MANUEL, wav:quechua000127.wav}
-- {duration:2.2649375, offset: 0.0, speaker_id: MANUEL, wav:quechua000128.wav}
-- {duration:9.668, offset: 0.0, speaker_id: MANUEL, wav:quechua000129.wav}
-- {duration:3.1793125, offset: 0.0, speaker_id: MANUEL, wav:quechua000130.wav}
-- {duration:4.1603125, offset: 0.0, speaker_id: MANUEL, wav:quechua000131.wav}
-- {duration:3.4946875, offset: 0.0, speaker_id: MANUEL, wav:quechua000132.wav}
-- {duration:10.6145625, offset: 0.0, speaker_id: MANUEL, wav:quechua000133.wav}
-- {duration:14.330125, offset: 0.0, speaker_id: MANUEL, wav:quechua000134.wav}
-- {duration:4.533875, offset: 0.0, speaker_id: MANUEL, wav:quechua000135.wav}
-- {duration:4.1103125, offset: 0.0, speaker_id: MANUEL, wav:quechua000136.wav}
-- {duration:11.4596875, offset: 0.0, speaker_id: MANUEL, wav:quechua000137.wav}
-- {duration:15.9254375, offset: 0.0, speaker_id: MANUEL, wav:quechua000138.wav}
-- {duration:8.6686875, offset: 0.0, speaker_id: MANUEL, wav:quechua000139.wav}
-- {duration:7.4644375, offset: 0.0, speaker_id: MANUEL, wav:quechua000140.wav}
-- {duration:11.1966875, offset: 0.0, speaker_id: MANUEL, wav:quechua000141.wav}
-- {duration:6.6003125, offset: 0.0, speaker_id: MANUEL, wav:quechua000142.wav}
-- {duration:3.7513125, offset: 0.0, speaker_id: MANUEL, wav:quechua000143.wav}
-- {duration:6.005, offset: 0.0, speaker_id: ANTONIO, wav:quechua000144.wav}
-- {duration:5.9398125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000145.wav}
-- {duration:3.8146875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000146.wav}
-- {duration:7.35275, offset: 0.0, speaker_id: ANTONIO, wav:quechua000147.wav}
-- {duration:6.806875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000148.wav}
-- {duration:7.688875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000149.wav}
-- {duration:7.61125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000150.wav}
-- {duration:9.3938125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000151.wav}
-- {duration:9.1959375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000152.wav}
-- {duration:3.0271875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000153.wav}
-- {duration:14.7628125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000154.wav}
-- {duration:3.49125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000155.wav}
-- {duration:3.4575, offset: 0.0, speaker_id: ANTONIO, wav:quechua000156.wav}
-- {duration:3.7369375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000157.wav}
-- {duration:3.745625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000158.wav}
-- {duration:2.8305, offset: 0.0, speaker_id: ANTONIO, wav:quechua000159.wav}
-- {duration:4.910125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000160.wav}
-- {duration:7.572, offset: 0.0, speaker_id: ANTONIO, wav:quechua000161.wav}
-- {duration:7.4960625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000162.wav}
-- {duration:4.886125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000163.wav}
-- {duration:3.7631875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000164.wav}
-- {duration:10.9846875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000165.wav}
-- {duration:9.281625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000166.wav}
-- {duration:3.6015625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000167.wav}
-- {duration:2.70375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000168.wav}
-- {duration:20.651125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000169.wav}
-- {duration:5.26175, offset: 0.0, speaker_id: ANTONIO, wav:quechua000170.wav}
-- {duration:11.36025, offset: 0.0, speaker_id: ANTONIO, wav:quechua000171.wav}
-- {duration:5.4921875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000172.wav}
-- {duration:4.70425, offset: 0.0, speaker_id: ANTONIO, wav:quechua000173.wav}
-- {duration:5.922, offset: 0.0, speaker_id: ANTONIO, wav:quechua000174.wav}
-- {duration:5.8553125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000175.wav}
-- {duration:7.08675, offset: 0.0, speaker_id: ANTONIO, wav:quechua000176.wav}
-- {duration:5.063375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000177.wav}
-- {duration:7.6235625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000178.wav}
-- {duration:4.2121875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000179.wav}
-- {duration:9.31425, offset: 0.0, speaker_id: ANTONIO, wav:quechua000180.wav}
-- {duration:5.6216875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000181.wav}
-- {duration:7.5684375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000182.wav}
-- {duration:4.3945625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000183.wav}
-- {duration:5.23975, offset: 0.0, speaker_id: ANTONIO, wav:quechua000184.wav}
-- {duration:5.703125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000185.wav}
-- {duration:3.4853125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000186.wav}
-- {duration:5.386875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000187.wav}
-- {duration:2.4815625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000188.wav}
-- {duration:7.38875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000189.wav}
-- {duration:2.061, offset: 0.0, speaker_id: ANTONIO, wav:quechua000190.wav}
-- {duration:5.5395625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000191.wav}
-- {duration:6.555, offset: 0.0, speaker_id: ANTONIO, wav:quechua000192.wav}
-- {duration:6.2655625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000193.wav}
-- {duration:5.5858125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000194.wav}
-- {duration:4.924, offset: 0.0, speaker_id: ANTONIO, wav:quechua000195.wav}
-- {duration:6.3143125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000196.wav}
-- {duration:5.898625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000197.wav}
-- {duration:3.37575, offset: 0.0, speaker_id: ANTONIO, wav:quechua000198.wav}
-- {duration:4.7189375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000199.wav}
-- {duration:11.312625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000200.wav}
-- {duration:4.3415, offset: 0.0, speaker_id: ANTONIO, wav:quechua000201.wav}
-- {duration:4.900375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000202.wav}
-- {duration:34.1600625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000203.wav}
-- {duration:12.654875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000204.wav}
-- {duration:4.5463125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000205.wav}
-- {duration:12.102375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000206.wav}
-- {duration:6.175375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000207.wav}
-- {duration:10.913625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000208.wav}
-- {duration:4.99575, offset: 0.0, speaker_id: ANTONIO, wav:quechua000209.wav}
-- {duration:13.10025, offset: 0.0, speaker_id: ANTONIO, wav:quechua000210.wav}
-- {duration:5.3971875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000211.wav}
-- {duration:6.013875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000212.wav}
-- {duration:3.9513125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000213.wav}
-- {duration:11.6175, offset: 0.0, speaker_id: ANTONIO, wav:quechua000214.wav}
-- {duration:10.4923125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000215.wav}
-- {duration:2.99175, offset: 0.0, speaker_id: ANTONIO, wav:quechua000216.wav}
-- {duration:11.1244375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000217.wav}
-- {duration:2.7613125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000218.wav}
-- {duration:7.21525, offset: 0.0, speaker_id: ANTONIO, wav:quechua000219.wav}
-- {duration:3.624875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000220.wav}
-- {duration:3.5396875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000221.wav}
-- {duration:2.055125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000222.wav}
-- {duration:6.03475, offset: 0.0, speaker_id: ANTONIO, wav:quechua000223.wav}
-- {duration:5.347375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000224.wav}
-- {duration:8.442875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000225.wav}
-- {duration:4.3001875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000226.wav}
-- {duration:11.7515, offset: 0.0, speaker_id: ANTONIO, wav:quechua000227.wav}
-- {duration:6.3304375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000228.wav}
-- {duration:8.43625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000229.wav}
-- {duration:3.00475, offset: 0.0, speaker_id: ANTONIO, wav:quechua000230.wav}
-- {duration:4.7108125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000231.wav}
-- {duration:4.561625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000232.wav}
-- {duration:6.8243125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000233.wav}
-- {duration:5.597, offset: 0.0, speaker_id: ANTONIO, wav:quechua000234.wav}
-- {duration:5.016375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000235.wav}
-- {duration:5.2635, offset: 0.0, speaker_id: ANTONIO, wav:quechua000236.wav}
-- {duration:3.794125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000237.wav}
-- {duration:9.4241875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000238.wav}
-- {duration:8.1211875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000239.wav}
-- {duration:6.766125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000240.wav}
-- {duration:0.859125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000241.wav}
-- {duration:18.499625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000242.wav}
-- {duration:3.837125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000243.wav}
-- {duration:3.550125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000244.wav}
-- {duration:3.550125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000245.wav}
-- {duration:4.8861875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000246.wav}
-- {duration:13.703625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000247.wav}
-- {duration:2.2140625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000248.wav}
-- {duration:9.1806875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000249.wav}
-- {duration:3.9544375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000250.wav}
-- {duration:12.8996875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000251.wav}
-- {duration:6.609875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000252.wav}
-- {duration:6.0089375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000253.wav}
-- {duration:6.1268125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000254.wav}
-- {duration:5.6424375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000255.wav}
-- {duration:13.898125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000256.wav}
-- {duration:5.7456875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000257.wav}
-- {duration:5.34425, offset: 0.0, speaker_id: ANTONIO, wav:quechua000258.wav}
-- {duration:7.772125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000259.wav}
-- {duration:3.3789375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000260.wav}
-- {duration:6.78575, offset: 0.0, speaker_id: ANTONIO, wav:quechua000261.wav}
-- {duration:3.6181875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000262.wav}
-- {duration:5.5131875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000263.wav}
-- {duration:3.1539375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000264.wav}
-- {duration:4.5613125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000265.wav}
-- {duration:19.7245625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000266.wav}
-- {duration:1.9585, offset: 0.0, speaker_id: ANTONIO, wav:quechua000267.wav}
-- {duration:2.0676875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000268.wav}
-- {duration:0.7350625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000269.wav}
-- {duration:8.1790625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000270.wav}
-- {duration:5.90375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000271.wav}
-- {duration:6.5205625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000272.wav}
-- {duration:7.679875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000273.wav}
-- {duration:2.7789375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000274.wav}
-- {duration:8.37825, offset: 0.0, speaker_id: ANTONIO, wav:quechua000275.wav}
-- {duration:4.8449375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000276.wav}
-- {duration:3.650875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000277.wav}
-- {duration:1.79025, offset: 0.0, speaker_id: ANTONIO, wav:quechua000278.wav}
-- {duration:6.928375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000279.wav}
-- {duration:9.5483125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000280.wav}
-- {duration:0.69425, offset: 0.0, speaker_id: ANTONIO, wav:quechua000281.wav}
-- {duration:4.0096875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000282.wav}
-- {duration:6.28925, offset: 0.0, speaker_id: ANTONIO, wav:quechua000283.wav}
-- {duration:0.58825, offset: 0.0, speaker_id: ANTONIO, wav:quechua000284.wav}
-- {duration:3.0281875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000285.wav}
-- {duration:10.6316875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000286.wav}
-- {duration:6.892625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000287.wav}
-- {duration:7.371125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000288.wav}
-- {duration:12.9113125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000289.wav}
-- {duration:3.815125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000290.wav}
-- {duration:5.3543125, offset: 0.0, speaker_id: ANTONIO, wav:quechua000291.wav}
-- {duration:4.0466875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000292.wav}
-- {duration:3.9616875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000293.wav}
-- {duration:2.39, offset: 0.0, speaker_id: ANTONIO, wav:quechua000294.wav}
-- {duration:9.5560625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000295.wav}
-- {duration:1.7365, offset: 0.0, speaker_id: ANTONIO, wav:quechua000296.wav}
-- {duration:5.0781875, offset: 0.0, speaker_id: ANTONIO, wav:quechua000297.wav}
-- {duration:5.7144375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000298.wav}
-- {duration:6.2080625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000299.wav}
-- {duration:2.90525, offset: 0.0, speaker_id: ANTONIO, wav:quechua000300.wav}
-- {duration:2.48575, offset: 0.0, speaker_id: ANTONIO, wav:quechua000301.wav}
-- {duration:3.7095625, offset: 0.0, speaker_id: ANTONIO, wav:quechua000302.wav}
-- {duration:9.3039375, offset: 0.0, speaker_id: ANTONIO, wav:quechua000303.wav}
-- {duration:12.6315, offset: 0.0, speaker_id: ANTONIO, wav:quechua000304.wav}
-- {duration:13.087, offset: 0.0, speaker_id: ANTONIO, wav:quechua000305.wav}
-- {duration:1.655125, offset: 0.0, speaker_id: RUTH, wav:quechua000306.wav}
-- {duration:1.22375, offset: 0.0, speaker_id: RUTH, wav:quechua000307.wav}
-- {duration:6.437375, offset: 0.0, speaker_id: CELIA, wav:quechua000308.wav}
-- {duration:6.7383125, offset: 0.0, speaker_id: CELIA, wav:quechua000309.wav}
-- {duration:2.535375, offset: 0.0, speaker_id: CELIA, wav:quechua000310.wav}
-- {duration:13.2283125, offset: 0.0, speaker_id: CELIA, wav:quechua000311.wav}
-- {duration:7.743875, offset: 0.0, speaker_id: CELIA, wav:quechua000312.wav}
-- {duration:11.10175, offset: 0.0, speaker_id: CELIA, wav:quechua000313.wav}
-- {duration:7.9219375, offset: 0.0, speaker_id: CELIA, wav:quechua000314.wav}
-- {duration:3.922125, offset: 0.0, speaker_id: CELIA, wav:quechua000315.wav}
-- {duration:2.3949375, offset: 0.0, speaker_id: CELIA, wav:quechua000316.wav}
-- {duration:1.7755, offset: 0.0, speaker_id: CELIA, wav:quechua000317.wav}
-- {duration:1.9159375, offset: 0.0, speaker_id: CELIA, wav:quechua000318.wav}
-- {duration:4.0424375, offset: 0.0, speaker_id: CELIA, wav:quechua000319.wav}
-- {duration:3.7816875, offset: 0.0, speaker_id: CELIA, wav:quechua000320.wav}
-- {duration:6.597875, offset: 0.0, speaker_id: CELIA, wav:quechua000321.wav}
-- {duration:14.5925, offset: 0.0, speaker_id: CELIA, wav:quechua000322.wav}
-- {duration:7.4304375, offset: 0.0, speaker_id: CELIA, wav:quechua000323.wav}
-- {duration:9.4691875, offset: 0.0, speaker_id: CELIA, wav:quechua000324.wav}
-- {duration:11.0816875, offset: 0.0, speaker_id: CELIA, wav:quechua000325.wav}
-- {duration:4.94275, offset: 0.0, speaker_id: CELIA, wav:quechua000326.wav}
-- {duration:2.545375, offset: 0.0, speaker_id: CELIA, wav:quechua000327.wav}
-- {duration:4.4336875, offset: 0.0, speaker_id: CELIA, wav:quechua000328.wav}
-- {duration:6.3295, offset: 0.0, speaker_id: CELIA, wav:quechua000329.wav}
-- {duration:3.4883125, offset: 0.0, speaker_id: CELIA, wav:quechua000330.wav}
-- {duration:6.72075, offset: 0.0, speaker_id: CELIA, wav:quechua000331.wav}
-- {duration:2.4174375, offset: 0.0, speaker_id: CELIA, wav:quechua000332.wav}
-- {duration:3.588625, offset: 0.0, speaker_id: CELIA, wav:quechua000333.wav}
-- {duration:3.3804375, offset: 0.0, speaker_id: CELIA, wav:quechua000334.wav}
-- {duration:6.1790625, offset: 0.0, speaker_id: CELIA, wav:quechua000335.wav}
-- {duration:11.1243125, offset: 0.0, speaker_id: CELIA, wav:quechua000336.wav}
-- {duration:3.508375, offset: 0.0, speaker_id: CELIA, wav:quechua000337.wav}
-- {duration:3.5409375, offset: 0.0, speaker_id: CELIA, wav:quechua000338.wav}
-- {duration:6.1790625, offset: 0.0, speaker_id: CELIA, wav:quechua000339.wav}
-- {duration:6.517625, offset: 0.0, speaker_id: CELIA, wav:quechua000340.wav}
-- {duration:3.611125, offset: 0.0, speaker_id: CELIA, wav:quechua000341.wav}
-- {duration:9.1658125, offset: 0.0, speaker_id: CELIA, wav:quechua000342.wav}
-- {duration:5.547125, offset: 0.0, speaker_id: CELIA, wav:quechua000343.wav}
-- {duration:6.4675, offset: 0.0, speaker_id: CELIA, wav:quechua000344.wav}
-- {duration:7.942, offset: 0.0, speaker_id: CELIA, wav:quechua000345.wav}
-- {duration:2.4575625, offset: 0.0, speaker_id: CELIA, wav:quechua000346.wav}
-- {duration:9.79775, offset: 0.0, speaker_id: CELIA, wav:quechua000347.wav}
-- {duration:2.18675, offset: 0.0, speaker_id: CELIA, wav:quechua000348.wav}
-- {duration:5.216125, offset: 0.0, speaker_id: CELIA, wav:quechua000349.wav}
-- {duration:3.78925, offset: 0.0, speaker_id: CELIA, wav:quechua000350.wav}
-- {duration:3.691375, offset: 0.0, speaker_id: CELIA, wav:quechua000351.wav}
-- {duration:7.972125, offset: 0.0, speaker_id: CELIA, wav:quechua000352.wav}
-- {duration:2.708375, offset: 0.0, speaker_id: CELIA, wav:quechua000353.wav}
-- {duration:2.9390625, offset: 0.0, speaker_id: CELIA, wav:quechua000354.wav}
-- {duration:2.1666875, offset: 0.0, speaker_id: CELIA, wav:quechua000355.wav}
-- {duration:5.634875, offset: 0.0, speaker_id: CELIA, wav:quechua000356.wav}
-- {duration:5.0154375, offset: 0.0, speaker_id: CELIA, wav:quechua000357.wav}
-- {duration:11.9343125, offset: 0.0, speaker_id: CELIA, wav:quechua000358.wav}
-- {duration:6.357125, offset: 0.0, speaker_id: CELIA, wav:quechua000359.wav}
-- {duration:3.96225, offset: 0.0, speaker_id: CELIA, wav:quechua000360.wav}
-- {duration:5.226125, offset: 0.0, speaker_id: CELIA, wav:quechua000361.wav}
-- {duration:6.3370625, offset: 0.0, speaker_id: CELIA, wav:quechua000362.wav}
-- {duration:4.343375, offset: 0.0, speaker_id: CELIA, wav:quechua000363.wav}
-- {duration:4.561625, offset: 0.0, speaker_id: CELIA, wav:quechua000364.wav}
-- {duration:2.878875, offset: 0.0, speaker_id: CELIA, wav:quechua000365.wav}
-- {duration:11.26225, offset: 0.0, speaker_id: CELIA, wav:quechua000366.wav}
-- {duration:5.868125, offset: 0.0, speaker_id: CELIA, wav:quechua000367.wav}
-- {duration:4.1126875, offset: 0.0, speaker_id: CELIA, wav:quechua000368.wav}
-- {duration:3.9823125, offset: 0.0, speaker_id: CELIA, wav:quechua000369.wav}
-- {duration:4.93275, offset: 0.0, speaker_id: CELIA, wav:quechua000370.wav}
-- {duration:4.333375, offset: 0.0, speaker_id: CELIA, wav:quechua000371.wav}
-- {duration:4.263125, offset: 0.0, speaker_id: CELIA, wav:quechua000372.wav}
-- {duration:4.190875, offset: 0.0, speaker_id: CELIA, wav:quechua000373.wav}
-- {duration:5.91575, offset: 0.0, speaker_id: CELIA, wav:quechua000374.wav}
-- {duration:1.294, offset: 0.0, speaker_id: CELIA, wav:quechua000375.wav}
-- {duration:11.452875, offset: 0.0, speaker_id: CELIA, wav:quechua000376.wav}
-- {duration:7.7238125, offset: 0.0, speaker_id: CELIA, wav:quechua000377.wav}
-- {duration:4.77475, offset: 0.0, speaker_id: CELIA, wav:quechua000378.wav}
-- {duration:4.5014375, offset: 0.0, speaker_id: CELIA, wav:quechua000379.wav}
-- {duration:8.426, offset: 0.0, speaker_id: CELIA, wav:quechua000380.wav}
-- {duration:8.65425, offset: 0.0, speaker_id: CELIA, wav:quechua000381.wav}
-- {duration:13.68975, offset: 0.0, speaker_id: CELIA, wav:quechua000382.wav}
-- {duration:12.3155, offset: 0.0, speaker_id: CELIA, wav:quechua000383.wav}
-- {duration:3.0895625, offset: 0.0, speaker_id: CELIA, wav:quechua000384.wav}
-- {duration:3.13725, offset: 0.0, speaker_id: CELIA, wav:quechua000385.wav}
-- {duration:6.439875, offset: 0.0, speaker_id: CELIA, wav:quechua000386.wav}
-- {duration:5.705125, offset: 0.0, speaker_id: CELIA, wav:quechua000387.wav}
-- {duration:11.2848125, offset: 0.0, speaker_id: CELIA, wav:quechua000388.wav}
-- {duration:14.1210625, offset: 0.0, speaker_id: CELIA, wav:quechua000389.wav}
-- {duration:5.74525, offset: 0.0, speaker_id: CELIA, wav:quechua000390.wav}
-- {duration:10.861, offset: 0.0, speaker_id: CELIA, wav:quechua000391.wav}
-- {duration:10.28925, offset: 0.0, speaker_id: CELIA, wav:quechua000392.wav}
-- {duration:7.3626875, offset: 0.0, speaker_id: CELIA, wav:quechua000393.wav}
-- {duration:8.8046875, offset: 0.0, speaker_id: CELIA, wav:quechua000394.wav}
-- {duration:6.0085625, offset: 0.0, speaker_id: CELIA, wav:quechua000395.wav}
-- {duration:5.4443125, offset: 0.0, speaker_id: CELIA, wav:quechua000396.wav}
-- {duration:4.4738125, offset: 0.0, speaker_id: CELIA, wav:quechua000397.wav}
-- {duration:2.6080625, offset: 0.0, speaker_id: CELIA, wav:quechua000398.wav}
-- {duration:6.1364375, offset: 0.0, speaker_id: CELIA, wav:quechua000399.wav}
-- {duration:6.4875625, offset: 0.0, speaker_id: CELIA, wav:quechua000400.wav}
-- {duration:6.5501875, offset: 0.0, speaker_id: CELIA, wav:quechua000401.wav}
-- {duration:12.9374375, offset: 0.0, speaker_id: CELIA, wav:quechua000402.wav}
-- {duration:6.9088125, offset: 0.0, speaker_id: CELIA, wav:quechua000403.wav}
-- {duration:8.4560625, offset: 0.0, speaker_id: CELIA, wav:quechua000404.wav}
-- {duration:9.3764375, offset: 0.0, speaker_id: CELIA, wav:quechua000405.wav}
-- {duration:6.2869375, offset: 0.0, speaker_id: CELIA, wav:quechua000406.wav}
-- {duration:3.199875, offset: 0.0, speaker_id: CELIA, wav:quechua000407.wav}
-- {duration:2.7585, offset: 0.0, speaker_id: CELIA, wav:quechua000408.wav}
-- {duration:3.15975, offset: 0.0, speaker_id: CELIA, wav:quechua000409.wav}
-- {duration:2.81625, offset: 0.0, speaker_id: CELIA, wav:quechua000410.wav}
-- {duration:11.9744375, offset: 0.0, speaker_id: CELIA, wav:quechua000411.wav}
-- {duration:9.7901875, offset: 0.0, speaker_id: CELIA, wav:quechua000412.wav}
-- {duration:11.26225, offset: 0.0, speaker_id: CELIA, wav:quechua000413.wav}
-- {duration:8.0824375, offset: 0.0, speaker_id: CELIA, wav:quechua000414.wav}
-- {duration:3.1296875, offset: 0.0, speaker_id: CELIA, wav:quechua000415.wav}
-- {duration:5.306375, offset: 0.0, speaker_id: CELIA, wav:quechua000416.wav}
-- {duration:8.132625, offset: 0.0, speaker_id: CELIA, wav:quechua000417.wav}
-- {duration:3.611125, offset: 0.0, speaker_id: CELIA, wav:quechua000418.wav}
-- {duration:7.1295, offset: 0.0, speaker_id: CELIA, wav:quechua000419.wav}
-- {duration:4.0224375, offset: 0.0, speaker_id: CELIA, wav:quechua000420.wav}
-- {duration:2.67825, offset: 0.0, speaker_id: CELIA, wav:quechua000421.wav}
-- {duration:4.824875, offset: 0.0, speaker_id: CELIA, wav:quechua000422.wav}
-- {duration:12.506125, offset: 0.0, speaker_id: CELIA, wav:quechua000423.wav}
-- {duration:9.4566875, offset: 0.0, speaker_id: CELIA, wav:quechua000424.wav}
-- {duration:4.3008125, offset: 0.0, speaker_id: CELIA, wav:quechua000425.wav}
-- {duration:14.2915625, offset: 0.0, speaker_id: CELIA, wav:quechua000426.wav}
-- {duration:5.236125, offset: 0.0, speaker_id: CELIA, wav:quechua000427.wav}
-- {duration:1.7755, offset: 0.0, speaker_id: CELIA, wav:quechua000428.wav}
-- {duration:1.4545, offset: 0.0, speaker_id: CELIA, wav:quechua000429.wav}
-- {duration:4.8424375, offset: 0.0, speaker_id: CELIA, wav:quechua000430.wav}
-- {duration:4.7245625, offset: 0.0, speaker_id: CELIA, wav:quechua000431.wav}
-- {duration:5.9383125, offset: 0.0, speaker_id: CELIA, wav:quechua000432.wav}
-- {duration:6.6179375, offset: 0.0, speaker_id: CELIA, wav:quechua000433.wav}
-- {duration:12.596375, offset: 0.0, speaker_id: CELIA, wav:quechua000434.wav}
-- {duration:5.454375, offset: 0.0, speaker_id: CELIA, wav:quechua000435.wav}
-- {duration:18.524625, offset: 0.0, speaker_id: CELIA, wav:quechua000436.wav}
-- {duration:7.8206875, offset: 0.0, speaker_id: CELIA, wav:quechua000437.wav}
-- {duration:13.9906875, offset: 0.0, speaker_id: CELIA, wav:quechua000438.wav}
-- {duration:22.484375, offset: 0.0, speaker_id: CELIA, wav:quechua000439.wav}
-- {duration:19.8386875, offset: 0.0, speaker_id: CELIA, wav:quechua000440.wav}
-- {duration:11.2723125, offset: 0.0, speaker_id: CELIA, wav:quechua000441.wav}
-- {duration:11.222125, offset: 0.0, speaker_id: CELIA, wav:quechua000442.wav}
-- {duration:4.30325, offset: 0.0, speaker_id: CELIA, wav:quechua000443.wav}
-- {duration:2.98925, offset: 0.0, speaker_id: CELIA, wav:quechua000444.wav}
-- {duration:12.9775625, offset: 0.0, speaker_id: CELIA, wav:quechua000445.wav}
-- {duration:10.54, offset: 0.0, speaker_id: CELIA, wav:quechua000446.wav}
-- {duration:9.888, offset: 0.0, speaker_id: CELIA, wav:quechua000447.wav}
-- {duration:2.3673125, offset: 0.0, speaker_id: CELIA, wav:quechua000448.wav}
-- {duration:6.9213125, offset: 0.0, speaker_id: CELIA, wav:quechua000449.wav}
-- {duration:2.1065, offset: 0.0, speaker_id: CELIA, wav:quechua000450.wav}
-- {duration:6.0586875, offset: 0.0, speaker_id: CELIA, wav:quechua000451.wav}
-- {duration:5.155875, offset: 0.0, speaker_id: CELIA, wav:quechua000452.wav}
-- {duration:3.4305625, offset: 0.0, speaker_id: CELIA, wav:quechua000453.wav}
-- {duration:1.1034375, offset: 0.0, speaker_id: CELIA, wav:quechua000454.wav}
-- {duration:3.5660625, offset: 0.0, speaker_id: CELIA, wav:quechua000455.wav}
-- {duration:3.6713125, offset: 0.0, speaker_id: CELIA, wav:quechua000456.wav}
-- {duration:3.7515625, offset: 0.0, speaker_id: CELIA, wav:quechua000457.wav}
-- {duration:2.34725, offset: 0.0, speaker_id: CELIA, wav:quechua000458.wav}
-- {duration:2.82875, offset: 0.0, speaker_id: CELIA, wav:quechua000459.wav}
-- {duration:5.5771875, offset: 0.0, speaker_id: CELIA, wav:quechua000460.wav}
-- {duration:3.9673125, offset: 0.0, speaker_id: CELIA, wav:quechua000461.wav}
-- {duration:2.3271875, offset: 0.0, speaker_id: CELIA, wav:quechua000462.wav}
-- {duration:6.515125, offset: 0.0, speaker_id: CELIA, wav:quechua000463.wav}
-- {duration:7.20225, offset: 0.0, speaker_id: IVAN, wav:quechua000464.wav}
-- {duration:7.22225, offset: 0.0, speaker_id: IVAN, wav:quechua000465.wav}
-- {duration:5.75775, offset: 0.0, speaker_id: IVAN, wav:quechua000466.wav}
-- {duration:6.07875, offset: 0.0, speaker_id: IVAN, wav:quechua000467.wav}
-- {duration:5.581625, offset: 0.0, speaker_id: IVAN, wav:quechua000468.wav}
-- {duration:8.7319375, offset: 0.0, speaker_id: LUZ, wav:quechua000469.wav}
-- {duration:8.3006875, offset: 0.0, speaker_id: LUZ, wav:quechua000470.wav}
-- {duration:8.4861875, offset: 0.0, speaker_id: LUZ, wav:quechua000471.wav}
-- {duration:2.868875, offset: 0.0, speaker_id: LUZ, wav:quechua000472.wav}
-- {duration:7.6034375, offset: 0.0, speaker_id: LUZ, wav:quechua000473.wav}
-- {duration:9.3238125, offset: 0.0, speaker_id: LUZ, wav:quechua000474.wav}
-- {duration:7.904375, offset: 0.0, speaker_id: LUZ, wav:quechua000475.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000476.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000477.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000478.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000479.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000480.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000481.wav}
-- {duration:30.0, offset: 0.0, speaker_id: JOSEF, wav:quechua000482.wav}
-- {duration:30.0, offset: 0.0, speaker_id: CAMILO, wav:quechua000483.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000484.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000485.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000486.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000487.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000488.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000489.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000490.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000491.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000492.wav}
-- {duration:30.0, offset: 0.0, speaker_id: JUAN JOSE, wav:quechua000493.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000494.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000495.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000496.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000497.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav:quechua000498.wav}
-- {duration:26.339, offset: 0.0, speaker_id: ANA, wav:quechua000499.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000500.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000501.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000502.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RUBEN, wav:quechua000503.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000504.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000505.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000506.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000507.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000508.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000509.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000510.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000511.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000512.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000513.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000514.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000515.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000516.wav}
-- {duration:30.0, offset: 0.0, speaker_id: JESUS, wav:quechua000517.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000518.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000519.wav}
-- {duration:30.0, offset: 0.0, speaker_id: PEDRO, wav:quechua000520.wav}
-- {duration:30.0, offset: 0.0, speaker_id: PEDRO, wav:quechua000521.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav:quechua000522.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav:quechua000523.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav:quechua000524.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav:quechua000525.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav:quechua000526.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000527.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000528.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000529.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000530.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000531.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000532.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000533.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000534.wav}
-- {duration:30.0, offset: 0.0, speaker_id: NICO, wav:quechua000535.wav}
-- {duration:30.0, offset: 0.0, speaker_id: NICO, wav:quechua000536.wav}
-- {duration:30.0, offset: 0.0, speaker_id: NICO, wav:quechua000537.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000538.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000539.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000540.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000541.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000542.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000543.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000544.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000545.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav:quechua000546.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000547.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000548.wav}
-- {duration:30.0, offset: 0.0, speaker_id: CHRISTOPHER, wav:quechua000549.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000550.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000551.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000552.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000553.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000554.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000555.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000556.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000557.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000558.wav}
-- {duration:30.0, offset: 0.0, speaker_id: SANTI, wav:quechua000559.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000560.wav}
-- {duration:30.0, offset: 0.0, speaker_id: TOMAS, wav:quechua000561.wav}
-- {duration:30.0, offset: 0.0, speaker_id: TOMAS, wav:quechua000562.wav}
-- {duration:30.0, offset: 0.0, speaker_id: TOMAS, wav:quechua000563.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000564.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000565.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000566.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000567.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ANA, wav:quechua000568.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALBERTO, wav:quechua000569.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ALBERTO, wav:quechua000570.wav}
-- {duration:30.0, offset: 0.0, speaker_id: RICHARD, wav:quechua000571.wav}
-- {duration:30.0, offset: 0.0, speaker_id: ENRIQUE, wav:quechua000572.wav}
+- {duration:1.9941875, offset: 0.0, speaker_id: MANUEL, wav: quechua000000.wav}
+- {duration:1.567125, offset: 0.0, speaker_id: MANUEL, wav: quechua000001.wav}
+- {duration:4.042, offset: 0.0, speaker_id: MANUEL, wav: quechua000002.wav}
+- {duration:3.861125, offset: 0.0, speaker_id: MANUEL, wav: quechua000003.wav}
+- {duration:7.7221875, offset: 0.0, speaker_id: MANUEL, wav: quechua000004.wav}
+- {duration:3.3739375, offset: 0.0, speaker_id: MANUEL, wav: quechua000005.wav}
+- {duration:8.7151875, offset: 0.0, speaker_id: MANUEL, wav: quechua000006.wav}
+- {duration:5.26325, offset: 0.0, speaker_id: MANUEL, wav: quechua000007.wav}
+- {duration:7.035375, offset: 0.0, speaker_id: MANUEL, wav: quechua000008.wav}
+- {duration:11.174875, offset: 0.0, speaker_id: MANUEL, wav: quechua000009.wav}
+- {duration:2.7486875, offset: 0.0, speaker_id: MANUEL, wav: quechua000010.wav}
+- {duration:3.4339375, offset: 0.0, speaker_id: MANUEL, wav: quechua000011.wav}
+- {duration:6.058625, offset: 0.0, speaker_id: MANUEL, wav: quechua000012.wav}
+- {duration:3.98675, offset: 0.0, speaker_id: MANUEL, wav: quechua000013.wav}
+- {duration:3.8095625, offset: 0.0, speaker_id: MANUEL, wav: quechua000014.wav}
+- {duration:5.52525, offset: 0.0, speaker_id: MANUEL, wav: quechua000015.wav}
+- {duration:3.050125, offset: 0.0, speaker_id: MANUEL, wav: quechua000016.wav}
+- {duration:10.9741875, offset: 0.0, speaker_id: MANUEL, wav: quechua000017.wav}
+- {duration:6.1934375, offset: 0.0, speaker_id: MANUEL, wav: quechua000018.wav}
+- {duration:11.728, offset: 0.0, speaker_id: MANUEL, wav: quechua000019.wav}
+- {duration:5.4950625, offset: 0.0, speaker_id: MANUEL, wav: quechua000020.wav}
+- {duration:4.346, offset: 0.0, speaker_id: MANUEL, wav: quechua000021.wav}
+- {duration:3.957375, offset: 0.0, speaker_id: MANUEL, wav: quechua000022.wav}
+- {duration:8.02375, offset: 0.0, speaker_id: MANUEL, wav: quechua000023.wav}
+- {duration:6.32875, offset: 0.0, speaker_id: MANUEL, wav: quechua000024.wav}
+- {duration:17.531125, offset: 0.0, speaker_id: MANUEL, wav: quechua000025.wav}
+- {duration:8.2686875, offset: 0.0, speaker_id: MANUEL, wav: quechua000026.wav}
+- {duration:6.44025, offset: 0.0, speaker_id: MANUEL, wav: quechua000027.wav}
+- {duration:3.87075, offset: 0.0, speaker_id: MANUEL, wav: quechua000028.wav}
+- {duration:4.5755625, offset: 0.0, speaker_id: MANUEL, wav: quechua000029.wav}
+- {duration:9.425375, offset: 0.0, speaker_id: MANUEL, wav: quechua000030.wav}
+- {duration:9.5159375, offset: 0.0, speaker_id: MANUEL, wav: quechua000031.wav}
+- {duration:3.7355, offset: 0.0, speaker_id: MANUEL, wav: quechua000032.wav}
+- {duration:3.0718125, offset: 0.0, speaker_id: MANUEL, wav: quechua000033.wav}
+- {duration:4.4876875, offset: 0.0, speaker_id: MANUEL, wav: quechua000034.wav}
+- {duration:13.0426875, offset: 0.0, speaker_id: MANUEL, wav: quechua000035.wav}
+- {duration:7.586125, offset: 0.0, speaker_id: MANUEL, wav: quechua000036.wav}
+- {duration:7.7456875, offset: 0.0, speaker_id: MANUEL, wav: quechua000037.wav}
+- {duration:8.320625, offset: 0.0, speaker_id: MANUEL, wav: quechua000038.wav}
+- {duration:2.741625, offset: 0.0, speaker_id: MANUEL, wav: quechua000039.wav}
+- {duration:3.65875, offset: 0.0, speaker_id: MANUEL, wav: quechua000040.wav}
+- {duration:3.2336875, offset: 0.0, speaker_id: MANUEL, wav: quechua000041.wav}
+- {duration:5.6003125, offset: 0.0, speaker_id: MANUEL, wav: quechua000042.wav}
+- {duration:7.807875, offset: 0.0, speaker_id: MANUEL, wav: quechua000043.wav}
+- {duration:4.553, offset: 0.0, speaker_id: MANUEL, wav: quechua000044.wav}
+- {duration:6.8145, offset: 0.0, speaker_id: MANUEL, wav: quechua000045.wav}
+- {duration:8.697875, offset: 0.0, speaker_id: MANUEL, wav: quechua000046.wav}
+- {duration:8.25625, offset: 0.0, speaker_id: MANUEL, wav: quechua000047.wav}
+- {duration:12.117, offset: 0.0, speaker_id: MANUEL, wav: quechua000048.wav}
+- {duration:3.24275, offset: 0.0, speaker_id: MANUEL, wav: quechua000049.wav}
+- {duration:3.94225, offset: 0.0, speaker_id: MANUEL, wav: quechua000050.wav}
+- {duration:3.9295, offset: 0.0, speaker_id: MANUEL, wav: quechua000051.wav}
+- {duration:3.795375, offset: 0.0, speaker_id: MANUEL, wav: quechua000052.wav}
+- {duration:4.137625, offset: 0.0, speaker_id: MANUEL, wav: quechua000053.wav}
+- {duration:12.2613125, offset: 0.0, speaker_id: MANUEL, wav: quechua000054.wav}
+- {duration:8.7435625, offset: 0.0, speaker_id: MANUEL, wav: quechua000055.wav}
+- {duration:6.0516875, offset: 0.0, speaker_id: MANUEL, wav: quechua000056.wav}
+- {duration:12.7496875, offset: 0.0, speaker_id: MANUEL, wav: quechua000057.wav}
+- {duration:8.499875, offset: 0.0, speaker_id: MANUEL, wav: quechua000058.wav}
+- {duration:6.8301875, offset: 0.0, speaker_id: MANUEL, wav: quechua000059.wav}
+- {duration:10.28025, offset: 0.0, speaker_id: MANUEL, wav: quechua000060.wav}
+- {duration:2.82075, offset: 0.0, speaker_id: MANUEL, wav: quechua000061.wav}
+- {duration:2.854875, offset: 0.0, speaker_id: MANUEL, wav: quechua000062.wav}
+- {duration:3.7401875, offset: 0.0, speaker_id: MANUEL, wav: quechua000063.wav}
+- {duration:4.2055625, offset: 0.0, speaker_id: MANUEL, wav: quechua000064.wav}
+- {duration:6.02075, offset: 0.0, speaker_id: MANUEL, wav: quechua000065.wav}
+- {duration:23.6465, offset: 0.0, speaker_id: MANUEL, wav: quechua000066.wav}
+- {duration:6.16075, offset: 0.0, speaker_id: MANUEL, wav: quechua000067.wav}
+- {duration:3.6003125, offset: 0.0, speaker_id: MANUEL, wav: quechua000068.wav}
+- {duration:10.75375, offset: 0.0, speaker_id: MANUEL, wav: quechua000069.wav}
+- {duration:6.1186875, offset: 0.0, speaker_id: MANUEL, wav: quechua000070.wav}
+- {duration:6.9909375, offset: 0.0, speaker_id: MANUEL, wav: quechua000071.wav}
+- {duration:4.66775, offset: 0.0, speaker_id: MANUEL, wav: quechua000072.wav}
+- {duration:7.033625, offset: 0.0, speaker_id: MANUEL, wav: quechua000073.wav}
+- {duration:10.4805, offset: 0.0, speaker_id: MANUEL, wav: quechua000074.wav}
+- {duration:5.3948125, offset: 0.0, speaker_id: MANUEL, wav: quechua000075.wav}
+- {duration:4.677625, offset: 0.0, speaker_id: MANUEL, wav: quechua000076.wav}
+- {duration:4.9228125, offset: 0.0, speaker_id: MANUEL, wav: quechua000077.wav}
+- {duration:5.387, offset: 0.0, speaker_id: MANUEL, wav: quechua000078.wav}
+- {duration:13.8274375, offset: 0.0, speaker_id: MANUEL, wav: quechua000079.wav}
+- {duration:4.2075625, offset: 0.0, speaker_id: MANUEL, wav: quechua000080.wav}
+- {duration:3.435375, offset: 0.0, speaker_id: MANUEL, wav: quechua000081.wav}
+- {duration:7.78375, offset: 0.0, speaker_id: MANUEL, wav: quechua000082.wav}
+- {duration:9.0929375, offset: 0.0, speaker_id: MANUEL, wav: quechua000083.wav}
+- {duration:9.1569375, offset: 0.0, speaker_id: MANUEL, wav: quechua000084.wav}
+- {duration:19.067875, offset: 0.0, speaker_id: MANUEL, wav: quechua000085.wav}
+- {duration:10.1091875, offset: 0.0, speaker_id: MANUEL, wav: quechua000086.wav}
+- {duration:0.59425, offset: 0.0, speaker_id: MANUEL, wav: quechua000087.wav}
+- {duration:8.76075, offset: 0.0, speaker_id: MANUEL, wav: quechua000088.wav}
+- {duration:8.0809375, offset: 0.0, speaker_id: MANUEL, wav: quechua000089.wav}
+- {duration:5.3835625, offset: 0.0, speaker_id: MANUEL, wav: quechua000090.wav}
+- {duration:9.4876875, offset: 0.0, speaker_id: MANUEL, wav: quechua000091.wav}
+- {duration:2.46975, offset: 0.0, speaker_id: MANUEL, wav: quechua000092.wav}
+- {duration:2.892625, offset: 0.0, speaker_id: MANUEL, wav: quechua000093.wav}
+- {duration:12.112, offset: 0.0, speaker_id: MANUEL, wav: quechua000094.wav}
+- {duration:4.9626875, offset: 0.0, speaker_id: MANUEL, wav: quechua000095.wav}
+- {duration:2.000625, offset: 0.0, speaker_id: MANUEL, wav: quechua000096.wav}
+- {duration:4.598875, offset: 0.0, speaker_id: MANUEL, wav: quechua000097.wav}
+- {duration:4.065, offset: 0.0, speaker_id: MANUEL, wav: quechua000098.wav}
+- {duration:6.1950625, offset: 0.0, speaker_id: MANUEL, wav: quechua000099.wav}
+- {duration:9.70075, offset: 0.0, speaker_id: MANUEL, wav: quechua000100.wav}
+- {duration:8.491125, offset: 0.0, speaker_id: MANUEL, wav: quechua000101.wav}
+- {duration:4.2703125, offset: 0.0, speaker_id: MANUEL, wav: quechua000102.wav}
+- {duration:5.0294375, offset: 0.0, speaker_id: MANUEL, wav: quechua000103.wav}
+- {duration:15.12575, offset: 0.0, speaker_id: MANUEL, wav: quechua000104.wav}
+- {duration:10.0894375, offset: 0.0, speaker_id: MANUEL, wav: quechua000105.wav}
+- {duration:3.47425, offset: 0.0, speaker_id: MANUEL, wav: quechua000106.wav}
+- {duration:4.570375, offset: 0.0, speaker_id: MANUEL, wav: quechua000107.wav}
+- {duration:5.9165, offset: 0.0, speaker_id: MANUEL, wav: quechua000108.wav}
+- {duration:14.8509375, offset: 0.0, speaker_id: MANUEL, wav: quechua000109.wav}
+- {duration:4.514, offset: 0.0, speaker_id: MANUEL, wav: quechua000110.wav}
+- {duration:6.8046875, offset: 0.0, speaker_id: MANUEL, wav: quechua000111.wav}
+- {duration:9.664875, offset: 0.0, speaker_id: MANUEL, wav: quechua000112.wav}
+- {duration:12.78025, offset: 0.0, speaker_id: MANUEL, wav: quechua000113.wav}
+- {duration:3.1040625, offset: 0.0, speaker_id: MANUEL, wav: quechua000114.wav}
+- {duration:11.432125, offset: 0.0, speaker_id: MANUEL, wav: quechua000115.wav}
+- {duration:3.4169375, offset: 0.0, speaker_id: MANUEL, wav: quechua000116.wav}
+- {duration:7.0456875, offset: 0.0, speaker_id: MANUEL, wav: quechua000117.wav}
+- {duration:8.7350625, offset: 0.0, speaker_id: MANUEL, wav: quechua000118.wav}
+- {duration:8.4389375, offset: 0.0, speaker_id: MANUEL, wav: quechua000119.wav}
+- {duration:2.319625, offset: 0.0, speaker_id: MANUEL, wav: quechua000120.wav}
+- {duration:3.1795, offset: 0.0, speaker_id: MANUEL, wav: quechua000121.wav}
+- {duration:2.426875, offset: 0.0, speaker_id: MANUEL, wav: quechua000122.wav}
+- {duration:2.8026875, offset: 0.0, speaker_id: MANUEL, wav: quechua000123.wav}
+- {duration:9.703, offset: 0.0, speaker_id: MANUEL, wav: quechua000124.wav}
+- {duration:0.759125, offset: 0.0, speaker_id: MANUEL, wav: quechua000125.wav}
+- {duration:3.3058125, offset: 0.0, speaker_id: MANUEL, wav: quechua000126.wav}
+- {duration:2.2731875, offset: 0.0, speaker_id: MANUEL, wav: quechua000127.wav}
+- {duration:2.2649375, offset: 0.0, speaker_id: MANUEL, wav: quechua000128.wav}
+- {duration:9.668, offset: 0.0, speaker_id: MANUEL, wav: quechua000129.wav}
+- {duration:3.1793125, offset: 0.0, speaker_id: MANUEL, wav: quechua000130.wav}
+- {duration:4.1603125, offset: 0.0, speaker_id: MANUEL, wav: quechua000131.wav}
+- {duration:3.4946875, offset: 0.0, speaker_id: MANUEL, wav: quechua000132.wav}
+- {duration:10.6145625, offset: 0.0, speaker_id: MANUEL, wav: quechua000133.wav}
+- {duration:14.330125, offset: 0.0, speaker_id: MANUEL, wav: quechua000134.wav}
+- {duration:4.533875, offset: 0.0, speaker_id: MANUEL, wav: quechua000135.wav}
+- {duration:4.1103125, offset: 0.0, speaker_id: MANUEL, wav: quechua000136.wav}
+- {duration:11.4596875, offset: 0.0, speaker_id: MANUEL, wav: quechua000137.wav}
+- {duration:15.9254375, offset: 0.0, speaker_id: MANUEL, wav: quechua000138.wav}
+- {duration:8.6686875, offset: 0.0, speaker_id: MANUEL, wav: quechua000139.wav}
+- {duration:7.4644375, offset: 0.0, speaker_id: MANUEL, wav: quechua000140.wav}
+- {duration:11.1966875, offset: 0.0, speaker_id: MANUEL, wav: quechua000141.wav}
+- {duration:6.6003125, offset: 0.0, speaker_id: MANUEL, wav: quechua000142.wav}
+- {duration:3.7513125, offset: 0.0, speaker_id: MANUEL, wav: quechua000143.wav}
+- {duration:6.005, offset: 0.0, speaker_id: ANTONIO, wav: quechua000144.wav}
+- {duration:5.9398125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000145.wav}
+- {duration:3.8146875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000146.wav}
+- {duration:7.35275, offset: 0.0, speaker_id: ANTONIO, wav: quechua000147.wav}
+- {duration:6.806875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000148.wav}
+- {duration:7.688875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000149.wav}
+- {duration:7.61125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000150.wav}
+- {duration:9.3938125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000151.wav}
+- {duration:9.1959375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000152.wav}
+- {duration:3.0271875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000153.wav}
+- {duration:14.7628125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000154.wav}
+- {duration:3.49125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000155.wav}
+- {duration:3.4575, offset: 0.0, speaker_id: ANTONIO, wav: quechua000156.wav}
+- {duration:3.7369375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000157.wav}
+- {duration:3.745625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000158.wav}
+- {duration:2.8305, offset: 0.0, speaker_id: ANTONIO, wav: quechua000159.wav}
+- {duration:4.910125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000160.wav}
+- {duration:7.572, offset: 0.0, speaker_id: ANTONIO, wav: quechua000161.wav}
+- {duration:7.4960625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000162.wav}
+- {duration:4.886125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000163.wav}
+- {duration:3.7631875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000164.wav}
+- {duration:10.9846875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000165.wav}
+- {duration:9.281625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000166.wav}
+- {duration:3.6015625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000167.wav}
+- {duration:2.70375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000168.wav}
+- {duration:20.651125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000169.wav}
+- {duration:5.26175, offset: 0.0, speaker_id: ANTONIO, wav: quechua000170.wav}
+- {duration:11.36025, offset: 0.0, speaker_id: ANTONIO, wav: quechua000171.wav}
+- {duration:5.4921875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000172.wav}
+- {duration:4.70425, offset: 0.0, speaker_id: ANTONIO, wav: quechua000173.wav}
+- {duration:5.922, offset: 0.0, speaker_id: ANTONIO, wav: quechua000174.wav}
+- {duration:5.8553125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000175.wav}
+- {duration:7.08675, offset: 0.0, speaker_id: ANTONIO, wav: quechua000176.wav}
+- {duration:5.063375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000177.wav}
+- {duration:7.6235625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000178.wav}
+- {duration:4.2121875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000179.wav}
+- {duration:9.31425, offset: 0.0, speaker_id: ANTONIO, wav: quechua000180.wav}
+- {duration:5.6216875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000181.wav}
+- {duration:7.5684375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000182.wav}
+- {duration:4.3945625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000183.wav}
+- {duration:5.23975, offset: 0.0, speaker_id: ANTONIO, wav: quechua000184.wav}
+- {duration:5.703125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000185.wav}
+- {duration:3.4853125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000186.wav}
+- {duration:5.386875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000187.wav}
+- {duration:2.4815625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000188.wav}
+- {duration:7.38875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000189.wav}
+- {duration:2.061, offset: 0.0, speaker_id: ANTONIO, wav: quechua000190.wav}
+- {duration:5.5395625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000191.wav}
+- {duration:6.555, offset: 0.0, speaker_id: ANTONIO, wav: quechua000192.wav}
+- {duration:6.2655625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000193.wav}
+- {duration:5.5858125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000194.wav}
+- {duration:4.924, offset: 0.0, speaker_id: ANTONIO, wav: quechua000195.wav}
+- {duration:6.3143125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000196.wav}
+- {duration:5.898625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000197.wav}
+- {duration:3.37575, offset: 0.0, speaker_id: ANTONIO, wav: quechua000198.wav}
+- {duration:4.7189375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000199.wav}
+- {duration:11.312625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000200.wav}
+- {duration:4.3415, offset: 0.0, speaker_id: ANTONIO, wav: quechua000201.wav}
+- {duration:4.900375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000202.wav}
+- {duration:34.1600625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000203.wav}
+- {duration:12.654875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000204.wav}
+- {duration:4.5463125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000205.wav}
+- {duration:12.102375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000206.wav}
+- {duration:6.175375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000207.wav}
+- {duration:10.913625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000208.wav}
+- {duration:4.99575, offset: 0.0, speaker_id: ANTONIO, wav: quechua000209.wav}
+- {duration:13.10025, offset: 0.0, speaker_id: ANTONIO, wav: quechua000210.wav}
+- {duration:5.3971875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000211.wav}
+- {duration:6.013875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000212.wav}
+- {duration:3.9513125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000213.wav}
+- {duration:11.6175, offset: 0.0, speaker_id: ANTONIO, wav: quechua000214.wav}
+- {duration:10.4923125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000215.wav}
+- {duration:2.99175, offset: 0.0, speaker_id: ANTONIO, wav: quechua000216.wav}
+- {duration:11.1244375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000217.wav}
+- {duration:2.7613125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000218.wav}
+- {duration:7.21525, offset: 0.0, speaker_id: ANTONIO, wav: quechua000219.wav}
+- {duration:3.624875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000220.wav}
+- {duration:3.5396875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000221.wav}
+- {duration:2.055125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000222.wav}
+- {duration:6.03475, offset: 0.0, speaker_id: ANTONIO, wav: quechua000223.wav}
+- {duration:5.347375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000224.wav}
+- {duration:8.442875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000225.wav}
+- {duration:4.3001875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000226.wav}
+- {duration:11.7515, offset: 0.0, speaker_id: ANTONIO, wav: quechua000227.wav}
+- {duration:6.3304375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000228.wav}
+- {duration:8.43625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000229.wav}
+- {duration:3.00475, offset: 0.0, speaker_id: ANTONIO, wav: quechua000230.wav}
+- {duration:4.7108125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000231.wav}
+- {duration:4.561625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000232.wav}
+- {duration:6.8243125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000233.wav}
+- {duration:5.597, offset: 0.0, speaker_id: ANTONIO, wav: quechua000234.wav}
+- {duration:5.016375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000235.wav}
+- {duration:5.2635, offset: 0.0, speaker_id: ANTONIO, wav: quechua000236.wav}
+- {duration:3.794125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000237.wav}
+- {duration:9.4241875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000238.wav}
+- {duration:8.1211875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000239.wav}
+- {duration:6.766125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000240.wav}
+- {duration:0.859125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000241.wav}
+- {duration:18.499625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000242.wav}
+- {duration:3.837125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000243.wav}
+- {duration:3.550125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000244.wav}
+- {duration:3.550125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000245.wav}
+- {duration:4.8861875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000246.wav}
+- {duration:13.703625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000247.wav}
+- {duration:2.2140625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000248.wav}
+- {duration:9.1806875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000249.wav}
+- {duration:3.9544375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000250.wav}
+- {duration:12.8996875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000251.wav}
+- {duration:6.609875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000252.wav}
+- {duration:6.0089375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000253.wav}
+- {duration:6.1268125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000254.wav}
+- {duration:5.6424375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000255.wav}
+- {duration:13.898125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000256.wav}
+- {duration:5.7456875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000257.wav}
+- {duration:5.34425, offset: 0.0, speaker_id: ANTONIO, wav: quechua000258.wav}
+- {duration:7.772125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000259.wav}
+- {duration:3.3789375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000260.wav}
+- {duration:6.78575, offset: 0.0, speaker_id: ANTONIO, wav: quechua000261.wav}
+- {duration:3.6181875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000262.wav}
+- {duration:5.5131875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000263.wav}
+- {duration:3.1539375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000264.wav}
+- {duration:4.5613125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000265.wav}
+- {duration:19.7245625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000266.wav}
+- {duration:1.9585, offset: 0.0, speaker_id: ANTONIO, wav: quechua000267.wav}
+- {duration:2.0676875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000268.wav}
+- {duration:0.7350625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000269.wav}
+- {duration:8.1790625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000270.wav}
+- {duration:5.90375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000271.wav}
+- {duration:6.5205625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000272.wav}
+- {duration:7.679875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000273.wav}
+- {duration:2.7789375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000274.wav}
+- {duration:8.37825, offset: 0.0, speaker_id: ANTONIO, wav: quechua000275.wav}
+- {duration:4.8449375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000276.wav}
+- {duration:3.650875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000277.wav}
+- {duration:1.79025, offset: 0.0, speaker_id: ANTONIO, wav: quechua000278.wav}
+- {duration:6.928375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000279.wav}
+- {duration:9.5483125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000280.wav}
+- {duration:0.69425, offset: 0.0, speaker_id: ANTONIO, wav: quechua000281.wav}
+- {duration:4.0096875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000282.wav}
+- {duration:6.28925, offset: 0.0, speaker_id: ANTONIO, wav: quechua000283.wav}
+- {duration:0.58825, offset: 0.0, speaker_id: ANTONIO, wav: quechua000284.wav}
+- {duration:3.0281875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000285.wav}
+- {duration:10.6316875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000286.wav}
+- {duration:6.892625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000287.wav}
+- {duration:7.371125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000288.wav}
+- {duration:12.9113125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000289.wav}
+- {duration:3.815125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000290.wav}
+- {duration:5.3543125, offset: 0.0, speaker_id: ANTONIO, wav: quechua000291.wav}
+- {duration:4.0466875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000292.wav}
+- {duration:3.9616875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000293.wav}
+- {duration:2.39, offset: 0.0, speaker_id: ANTONIO, wav: quechua000294.wav}
+- {duration:9.5560625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000295.wav}
+- {duration:1.7365, offset: 0.0, speaker_id: ANTONIO, wav: quechua000296.wav}
+- {duration:5.0781875, offset: 0.0, speaker_id: ANTONIO, wav: quechua000297.wav}
+- {duration:5.7144375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000298.wav}
+- {duration:6.2080625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000299.wav}
+- {duration:2.90525, offset: 0.0, speaker_id: ANTONIO, wav: quechua000300.wav}
+- {duration:2.48575, offset: 0.0, speaker_id: ANTONIO, wav: quechua000301.wav}
+- {duration:3.7095625, offset: 0.0, speaker_id: ANTONIO, wav: quechua000302.wav}
+- {duration:9.3039375, offset: 0.0, speaker_id: ANTONIO, wav: quechua000303.wav}
+- {duration:12.6315, offset: 0.0, speaker_id: ANTONIO, wav: quechua000304.wav}
+- {duration:13.087, offset: 0.0, speaker_id: ANTONIO, wav: quechua000305.wav}
+- {duration:1.655125, offset: 0.0, speaker_id: RUTH, wav: quechua000306.wav}
+- {duration:1.22375, offset: 0.0, speaker_id: RUTH, wav: quechua000307.wav}
+- {duration:6.437375, offset: 0.0, speaker_id: CELIA, wav: quechua000308.wav}
+- {duration:6.7383125, offset: 0.0, speaker_id: CELIA, wav: quechua000309.wav}
+- {duration:2.535375, offset: 0.0, speaker_id: CELIA, wav: quechua000310.wav}
+- {duration:13.2283125, offset: 0.0, speaker_id: CELIA, wav: quechua000311.wav}
+- {duration:7.743875, offset: 0.0, speaker_id: CELIA, wav: quechua000312.wav}
+- {duration:11.10175, offset: 0.0, speaker_id: CELIA, wav: quechua000313.wav}
+- {duration:7.9219375, offset: 0.0, speaker_id: CELIA, wav: quechua000314.wav}
+- {duration:3.922125, offset: 0.0, speaker_id: CELIA, wav: quechua000315.wav}
+- {duration:2.3949375, offset: 0.0, speaker_id: CELIA, wav: quechua000316.wav}
+- {duration:1.7755, offset: 0.0, speaker_id: CELIA, wav: quechua000317.wav}
+- {duration:1.9159375, offset: 0.0, speaker_id: CELIA, wav: quechua000318.wav}
+- {duration:4.0424375, offset: 0.0, speaker_id: CELIA, wav: quechua000319.wav}
+- {duration:3.7816875, offset: 0.0, speaker_id: CELIA, wav: quechua000320.wav}
+- {duration:6.597875, offset: 0.0, speaker_id: CELIA, wav: quechua000321.wav}
+- {duration:14.5925, offset: 0.0, speaker_id: CELIA, wav: quechua000322.wav}
+- {duration:7.4304375, offset: 0.0, speaker_id: CELIA, wav: quechua000323.wav}
+- {duration:9.4691875, offset: 0.0, speaker_id: CELIA, wav: quechua000324.wav}
+- {duration:11.0816875, offset: 0.0, speaker_id: CELIA, wav: quechua000325.wav}
+- {duration:4.94275, offset: 0.0, speaker_id: CELIA, wav: quechua000326.wav}
+- {duration:2.545375, offset: 0.0, speaker_id: CELIA, wav: quechua000327.wav}
+- {duration:4.4336875, offset: 0.0, speaker_id: CELIA, wav: quechua000328.wav}
+- {duration:6.3295, offset: 0.0, speaker_id: CELIA, wav: quechua000329.wav}
+- {duration:3.4883125, offset: 0.0, speaker_id: CELIA, wav: quechua000330.wav}
+- {duration:6.72075, offset: 0.0, speaker_id: CELIA, wav: quechua000331.wav}
+- {duration:2.4174375, offset: 0.0, speaker_id: CELIA, wav: quechua000332.wav}
+- {duration:3.588625, offset: 0.0, speaker_id: CELIA, wav: quechua000333.wav}
+- {duration:3.3804375, offset: 0.0, speaker_id: CELIA, wav: quechua000334.wav}
+- {duration:6.1790625, offset: 0.0, speaker_id: CELIA, wav: quechua000335.wav}
+- {duration:11.1243125, offset: 0.0, speaker_id: CELIA, wav: quechua000336.wav}
+- {duration:3.508375, offset: 0.0, speaker_id: CELIA, wav: quechua000337.wav}
+- {duration:3.5409375, offset: 0.0, speaker_id: CELIA, wav: quechua000338.wav}
+- {duration:6.1790625, offset: 0.0, speaker_id: CELIA, wav: quechua000339.wav}
+- {duration:6.517625, offset: 0.0, speaker_id: CELIA, wav: quechua000340.wav}
+- {duration:3.611125, offset: 0.0, speaker_id: CELIA, wav: quechua000341.wav}
+- {duration:9.1658125, offset: 0.0, speaker_id: CELIA, wav: quechua000342.wav}
+- {duration:5.547125, offset: 0.0, speaker_id: CELIA, wav: quechua000343.wav}
+- {duration:6.4675, offset: 0.0, speaker_id: CELIA, wav: quechua000344.wav}
+- {duration:7.942, offset: 0.0, speaker_id: CELIA, wav: quechua000345.wav}
+- {duration:2.4575625, offset: 0.0, speaker_id: CELIA, wav: quechua000346.wav}
+- {duration:9.79775, offset: 0.0, speaker_id: CELIA, wav: quechua000347.wav}
+- {duration:2.18675, offset: 0.0, speaker_id: CELIA, wav: quechua000348.wav}
+- {duration:5.216125, offset: 0.0, speaker_id: CELIA, wav: quechua000349.wav}
+- {duration:3.78925, offset: 0.0, speaker_id: CELIA, wav: quechua000350.wav}
+- {duration:3.691375, offset: 0.0, speaker_id: CELIA, wav: quechua000351.wav}
+- {duration:7.972125, offset: 0.0, speaker_id: CELIA, wav: quechua000352.wav}
+- {duration:2.708375, offset: 0.0, speaker_id: CELIA, wav: quechua000353.wav}
+- {duration:2.9390625, offset: 0.0, speaker_id: CELIA, wav: quechua000354.wav}
+- {duration:2.1666875, offset: 0.0, speaker_id: CELIA, wav: quechua000355.wav}
+- {duration:5.634875, offset: 0.0, speaker_id: CELIA, wav: quechua000356.wav}
+- {duration:5.0154375, offset: 0.0, speaker_id: CELIA, wav: quechua000357.wav}
+- {duration:11.9343125, offset: 0.0, speaker_id: CELIA, wav: quechua000358.wav}
+- {duration:6.357125, offset: 0.0, speaker_id: CELIA, wav: quechua000359.wav}
+- {duration:3.96225, offset: 0.0, speaker_id: CELIA, wav: quechua000360.wav}
+- {duration:5.226125, offset: 0.0, speaker_id: CELIA, wav: quechua000361.wav}
+- {duration:6.3370625, offset: 0.0, speaker_id: CELIA, wav: quechua000362.wav}
+- {duration:4.343375, offset: 0.0, speaker_id: CELIA, wav: quechua000363.wav}
+- {duration:4.561625, offset: 0.0, speaker_id: CELIA, wav: quechua000364.wav}
+- {duration:2.878875, offset: 0.0, speaker_id: CELIA, wav: quechua000365.wav}
+- {duration:11.26225, offset: 0.0, speaker_id: CELIA, wav: quechua000366.wav}
+- {duration:5.868125, offset: 0.0, speaker_id: CELIA, wav: quechua000367.wav}
+- {duration:4.1126875, offset: 0.0, speaker_id: CELIA, wav: quechua000368.wav}
+- {duration:3.9823125, offset: 0.0, speaker_id: CELIA, wav: quechua000369.wav}
+- {duration:4.93275, offset: 0.0, speaker_id: CELIA, wav: quechua000370.wav}
+- {duration:4.333375, offset: 0.0, speaker_id: CELIA, wav: quechua000371.wav}
+- {duration:4.263125, offset: 0.0, speaker_id: CELIA, wav: quechua000372.wav}
+- {duration:4.190875, offset: 0.0, speaker_id: CELIA, wav: quechua000373.wav}
+- {duration:5.91575, offset: 0.0, speaker_id: CELIA, wav: quechua000374.wav}
+- {duration:1.294, offset: 0.0, speaker_id: CELIA, wav: quechua000375.wav}
+- {duration:11.452875, offset: 0.0, speaker_id: CELIA, wav: quechua000376.wav}
+- {duration:7.7238125, offset: 0.0, speaker_id: CELIA, wav: quechua000377.wav}
+- {duration:4.77475, offset: 0.0, speaker_id: CELIA, wav: quechua000378.wav}
+- {duration:4.5014375, offset: 0.0, speaker_id: CELIA, wav: quechua000379.wav}
+- {duration:8.426, offset: 0.0, speaker_id: CELIA, wav: quechua000380.wav}
+- {duration:8.65425, offset: 0.0, speaker_id: CELIA, wav: quechua000381.wav}
+- {duration:13.68975, offset: 0.0, speaker_id: CELIA, wav: quechua000382.wav}
+- {duration:12.3155, offset: 0.0, speaker_id: CELIA, wav: quechua000383.wav}
+- {duration:3.0895625, offset: 0.0, speaker_id: CELIA, wav: quechua000384.wav}
+- {duration:3.13725, offset: 0.0, speaker_id: CELIA, wav: quechua000385.wav}
+- {duration:6.439875, offset: 0.0, speaker_id: CELIA, wav: quechua000386.wav}
+- {duration:5.705125, offset: 0.0, speaker_id: CELIA, wav: quechua000387.wav}
+- {duration:11.2848125, offset: 0.0, speaker_id: CELIA, wav: quechua000388.wav}
+- {duration:14.1210625, offset: 0.0, speaker_id: CELIA, wav: quechua000389.wav}
+- {duration:5.74525, offset: 0.0, speaker_id: CELIA, wav: quechua000390.wav}
+- {duration:10.861, offset: 0.0, speaker_id: CELIA, wav: quechua000391.wav}
+- {duration:10.28925, offset: 0.0, speaker_id: CELIA, wav: quechua000392.wav}
+- {duration:7.3626875, offset: 0.0, speaker_id: CELIA, wav: quechua000393.wav}
+- {duration:8.8046875, offset: 0.0, speaker_id: CELIA, wav: quechua000394.wav}
+- {duration:6.0085625, offset: 0.0, speaker_id: CELIA, wav: quechua000395.wav}
+- {duration:5.4443125, offset: 0.0, speaker_id: CELIA, wav: quechua000396.wav}
+- {duration:4.4738125, offset: 0.0, speaker_id: CELIA, wav: quechua000397.wav}
+- {duration:2.6080625, offset: 0.0, speaker_id: CELIA, wav: quechua000398.wav}
+- {duration:6.1364375, offset: 0.0, speaker_id: CELIA, wav: quechua000399.wav}
+- {duration:6.4875625, offset: 0.0, speaker_id: CELIA, wav: quechua000400.wav}
+- {duration:6.5501875, offset: 0.0, speaker_id: CELIA, wav: quechua000401.wav}
+- {duration:12.9374375, offset: 0.0, speaker_id: CELIA, wav: quechua000402.wav}
+- {duration:6.9088125, offset: 0.0, speaker_id: CELIA, wav: quechua000403.wav}
+- {duration:8.4560625, offset: 0.0, speaker_id: CELIA, wav: quechua000404.wav}
+- {duration:9.3764375, offset: 0.0, speaker_id: CELIA, wav: quechua000405.wav}
+- {duration:6.2869375, offset: 0.0, speaker_id: CELIA, wav: quechua000406.wav}
+- {duration:3.199875, offset: 0.0, speaker_id: CELIA, wav: quechua000407.wav}
+- {duration:2.7585, offset: 0.0, speaker_id: CELIA, wav: quechua000408.wav}
+- {duration:3.15975, offset: 0.0, speaker_id: CELIA, wav: quechua000409.wav}
+- {duration:2.81625, offset: 0.0, speaker_id: CELIA, wav: quechua000410.wav}
+- {duration:11.9744375, offset: 0.0, speaker_id: CELIA, wav: quechua000411.wav}
+- {duration:9.7901875, offset: 0.0, speaker_id: CELIA, wav: quechua000412.wav}
+- {duration:11.26225, offset: 0.0, speaker_id: CELIA, wav: quechua000413.wav}
+- {duration:8.0824375, offset: 0.0, speaker_id: CELIA, wav: quechua000414.wav}
+- {duration:3.1296875, offset: 0.0, speaker_id: CELIA, wav: quechua000415.wav}
+- {duration:5.306375, offset: 0.0, speaker_id: CELIA, wav: quechua000416.wav}
+- {duration:8.132625, offset: 0.0, speaker_id: CELIA, wav: quechua000417.wav}
+- {duration:3.611125, offset: 0.0, speaker_id: CELIA, wav: quechua000418.wav}
+- {duration:7.1295, offset: 0.0, speaker_id: CELIA, wav: quechua000419.wav}
+- {duration:4.0224375, offset: 0.0, speaker_id: CELIA, wav: quechua000420.wav}
+- {duration:2.67825, offset: 0.0, speaker_id: CELIA, wav: quechua000421.wav}
+- {duration:4.824875, offset: 0.0, speaker_id: CELIA, wav: quechua000422.wav}
+- {duration:12.506125, offset: 0.0, speaker_id: CELIA, wav: quechua000423.wav}
+- {duration:9.4566875, offset: 0.0, speaker_id: CELIA, wav: quechua000424.wav}
+- {duration:4.3008125, offset: 0.0, speaker_id: CELIA, wav: quechua000425.wav}
+- {duration:14.2915625, offset: 0.0, speaker_id: CELIA, wav: quechua000426.wav}
+- {duration:5.236125, offset: 0.0, speaker_id: CELIA, wav: quechua000427.wav}
+- {duration:1.7755, offset: 0.0, speaker_id: CELIA, wav: quechua000428.wav}
+- {duration:1.4545, offset: 0.0, speaker_id: CELIA, wav: quechua000429.wav}
+- {duration:4.8424375, offset: 0.0, speaker_id: CELIA, wav: quechua000430.wav}
+- {duration:4.7245625, offset: 0.0, speaker_id: CELIA, wav: quechua000431.wav}
+- {duration:5.9383125, offset: 0.0, speaker_id: CELIA, wav: quechua000432.wav}
+- {duration:6.6179375, offset: 0.0, speaker_id: CELIA, wav: quechua000433.wav}
+- {duration:12.596375, offset: 0.0, speaker_id: CELIA, wav: quechua000434.wav}
+- {duration:5.454375, offset: 0.0, speaker_id: CELIA, wav: quechua000435.wav}
+- {duration:18.524625, offset: 0.0, speaker_id: CELIA, wav: quechua000436.wav}
+- {duration:7.8206875, offset: 0.0, speaker_id: CELIA, wav: quechua000437.wav}
+- {duration:13.9906875, offset: 0.0, speaker_id: CELIA, wav: quechua000438.wav}
+- {duration:22.484375, offset: 0.0, speaker_id: CELIA, wav: quechua000439.wav}
+- {duration:19.8386875, offset: 0.0, speaker_id: CELIA, wav: quechua000440.wav}
+- {duration:11.2723125, offset: 0.0, speaker_id: CELIA, wav: quechua000441.wav}
+- {duration:11.222125, offset: 0.0, speaker_id: CELIA, wav: quechua000442.wav}
+- {duration:4.30325, offset: 0.0, speaker_id: CELIA, wav: quechua000443.wav}
+- {duration:2.98925, offset: 0.0, speaker_id: CELIA, wav: quechua000444.wav}
+- {duration:12.9775625, offset: 0.0, speaker_id: CELIA, wav: quechua000445.wav}
+- {duration:10.54, offset: 0.0, speaker_id: CELIA, wav: quechua000446.wav}
+- {duration:9.888, offset: 0.0, speaker_id: CELIA, wav: quechua000447.wav}
+- {duration:2.3673125, offset: 0.0, speaker_id: CELIA, wav: quechua000448.wav}
+- {duration:6.9213125, offset: 0.0, speaker_id: CELIA, wav: quechua000449.wav}
+- {duration:2.1065, offset: 0.0, speaker_id: CELIA, wav: quechua000450.wav}
+- {duration:6.0586875, offset: 0.0, speaker_id: CELIA, wav: quechua000451.wav}
+- {duration:5.155875, offset: 0.0, speaker_id: CELIA, wav: quechua000452.wav}
+- {duration:3.4305625, offset: 0.0, speaker_id: CELIA, wav: quechua000453.wav}
+- {duration:1.1034375, offset: 0.0, speaker_id: CELIA, wav: quechua000454.wav}
+- {duration:3.5660625, offset: 0.0, speaker_id: CELIA, wav: quechua000455.wav}
+- {duration:3.6713125, offset: 0.0, speaker_id: CELIA, wav: quechua000456.wav}
+- {duration:3.7515625, offset: 0.0, speaker_id: CELIA, wav: quechua000457.wav}
+- {duration:2.34725, offset: 0.0, speaker_id: CELIA, wav: quechua000458.wav}
+- {duration:2.82875, offset: 0.0, speaker_id: CELIA, wav: quechua000459.wav}
+- {duration:5.5771875, offset: 0.0, speaker_id: CELIA, wav: quechua000460.wav}
+- {duration:3.9673125, offset: 0.0, speaker_id: CELIA, wav: quechua000461.wav}
+- {duration:2.3271875, offset: 0.0, speaker_id: CELIA, wav: quechua000462.wav}
+- {duration:6.515125, offset: 0.0, speaker_id: CELIA, wav: quechua000463.wav}
+- {duration:7.20225, offset: 0.0, speaker_id: IVAN, wav: quechua000464.wav}
+- {duration:7.22225, offset: 0.0, speaker_id: IVAN, wav: quechua000465.wav}
+- {duration:5.75775, offset: 0.0, speaker_id: IVAN, wav: quechua000466.wav}
+- {duration:6.07875, offset: 0.0, speaker_id: IVAN, wav: quechua000467.wav}
+- {duration:5.581625, offset: 0.0, speaker_id: IVAN, wav: quechua000468.wav}
+- {duration:8.7319375, offset: 0.0, speaker_id: LUZ, wav: quechua000469.wav}
+- {duration:8.3006875, offset: 0.0, speaker_id: LUZ, wav: quechua000470.wav}
+- {duration:8.4861875, offset: 0.0, speaker_id: LUZ, wav: quechua000471.wav}
+- {duration:2.868875, offset: 0.0, speaker_id: LUZ, wav: quechua000472.wav}
+- {duration:7.6034375, offset: 0.0, speaker_id: LUZ, wav: quechua000473.wav}
+- {duration:9.3238125, offset: 0.0, speaker_id: LUZ, wav: quechua000474.wav}
+- {duration:7.904375, offset: 0.0, speaker_id: LUZ, wav: quechua000475.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000476.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000477.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000478.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000479.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000480.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000481.wav}
+- {duration:30.0, offset: 0.0, speaker_id: JOSEF, wav: quechua000482.wav}
+- {duration:30.0, offset: 0.0, speaker_id: CAMILO, wav: quechua000483.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000484.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000485.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000486.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000487.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000488.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000489.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000490.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000491.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000492.wav}
+- {duration:30.0, offset: 0.0, speaker_id: JUAN JOSE, wav: quechua000493.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000494.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000495.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000496.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000497.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICARDO, wav: quechua000498.wav}
+- {duration:26.339, offset: 0.0, speaker_id: ANA, wav: quechua000499.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000500.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000501.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000502.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RUBEN, wav: quechua000503.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000504.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000505.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000506.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000507.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000508.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000509.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000510.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000511.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000512.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000513.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000514.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000515.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000516.wav}
+- {duration:30.0, offset: 0.0, speaker_id: JESUS, wav: quechua000517.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000518.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000519.wav}
+- {duration:30.0, offset: 0.0, speaker_id: PEDRO, wav: quechua000520.wav}
+- {duration:30.0, offset: 0.0, speaker_id: PEDRO, wav: quechua000521.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav: quechua000522.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav: quechua000523.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav: quechua000524.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav: quechua000525.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALFREDO, wav: quechua000526.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000527.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000528.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000529.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000530.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000531.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000532.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000533.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000534.wav}
+- {duration:30.0, offset: 0.0, speaker_id: NICO, wav: quechua000535.wav}
+- {duration:30.0, offset: 0.0, speaker_id: NICO, wav: quechua000536.wav}
+- {duration:30.0, offset: 0.0, speaker_id: NICO, wav: quechua000537.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000538.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000539.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000540.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000541.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000542.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000543.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000544.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000545.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RENZO, wav: quechua000546.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000547.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000548.wav}
+- {duration:30.0, offset: 0.0, speaker_id: CHRISTOPHER, wav: quechua000549.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000550.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000551.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000552.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000553.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000554.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000555.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000556.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000557.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000558.wav}
+- {duration:30.0, offset: 0.0, speaker_id: SANTI, wav: quechua000559.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000560.wav}
+- {duration:30.0, offset: 0.0, speaker_id: TOMAS, wav: quechua000561.wav}
+- {duration:30.0, offset: 0.0, speaker_id: TOMAS, wav: quechua000562.wav}
+- {duration:30.0, offset: 0.0, speaker_id: TOMAS, wav: quechua000563.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000564.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000565.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000566.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000567.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ANA, wav: quechua000568.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALBERTO, wav: quechua000569.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ALBERTO, wav: quechua000570.wav}
+- {duration:30.0, offset: 0.0, speaker_id: RICHARD, wav: quechua000571.wav}
+- {duration:30.0, offset: 0.0, speaker_id: ENRIQUE, wav: quechua000572.wav}
