@@ -1,4 +1,4 @@
-# IWSLT2024 - Low-resource Speech Translation Track: Quechua-Spanish Parallel Corpus
+# IWSLT2023 - Low-resource Speech Translation Track: Quechua-Spanish Parallel Corpus
 
 Repository for sharing the data in the Quechua language, one of the languages for the low-resource speech translation track at IWSLT 2023.
 
